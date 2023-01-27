@@ -18,6 +18,8 @@ When it comes to object detection, popular detection frameworks are
   * opencv
   * numpy
   * Below command will install all the dependency
+
+   `$ cd YOLO-Object-Detection`
    
    `$ pip install -r requirements.txt`
 
