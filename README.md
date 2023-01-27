@@ -17,7 +17,7 @@ When it comes to object detection, popular detection frameworks are
  ## Dependencies
   * opencv
   * numpy
-  Below command will install all the dependency
+  * Below command will install all the dependency
   `$ pip install -r requirements.txt`
 
 **Note: Compatability with Python 2.x is not officially tested.**
