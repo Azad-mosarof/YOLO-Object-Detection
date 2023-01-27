@@ -10,6 +10,7 @@ When it comes to object detection, popular detection frameworks are
  Support for running YOLO/DarkNet has been added to OpenCV dnn module recently. 
 
  Clone the repository on your local machine by running the below command:
+ 
  `$ git clone https://github.com/Azad-mosarof/YOLO-Object-Detection.git'
  
   Remmber before executing this command you should make sure you have git installed in your machine
